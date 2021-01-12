@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #0d1117;
+  color: #ffffff;
+}
+header {
+  color: #735bc1;
+  padding: 0.5rem 1rem;
+  /* line-height: 3rem; */
+}
+input {
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+}
+button {
+  padding: 0.3rem 1rem;
+  border-radius: 10px;
+  border: none;
+  margin: 1rem;
+  background-color: #00c647;
+  font-weight: bold;
+  font-size: 17px;
+  cursor: pointer;
+}
+.returnAmount {
+  font-size: 40px;
+  padding: 0.7rem 0rem;
+  color: #1da1f2;
+  width: 70%;
+  margin: auto;
+}
+.allDenoBtns {
+  margin: auto;
+  width: 100%;
+  text-align: center;
+}
+.denominationsAndNo {
+  background-color: #735bc1;
+  display: inline-block;
+  text-align: center;
+  width: 5rem;
+  margin: 1rem 15rem;
+  padding: 0.7rem;
+  word-spacing: 1rem;
+}
+.denomination {
+  background-color: #00c647;
+  padding: 0.2rem 0.5rem;
+  display: inline-block;
+  margin: auto;
+  text-align: left;
+}
+.noOfNotes {
+  display: inline-block;
+  color: #ffffff;
+  background: #f85149;
+  padding: 0.2rem 0.5rem;
+  text-align: right;
+}
+
+.hide {
+  display: none;
+}
+.tweet-game {
+  margin: 1rem;
+}
+.tweet-game a {
+  background-color: #1da1f2;
+  padding: 1rem 1rem;
+  border-radius: 0.5rem;
+  width: 100px;
+  margin: auto;
+  /* position: fixed;
+  top: 0;
+  left: 0; */
+  font-weight: bold;
+  text-decoration: none;
+  font-weight: bold;
+  color: #ffffff;
+}
+footer {
+  padding: 2rem;
+  font-size: 20px;
+}
+footer a {
+  text-decoration: none;
+  color: #f85149;
+}

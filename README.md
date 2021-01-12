@@ -1,2 +1,3 @@
-# cash-register-manager
-Created with CodeSandbox
+## Cash Register Manager
+
+Check the app [here](https://fe57g.csb.app/).
