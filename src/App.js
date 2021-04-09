@@ -144,13 +144,21 @@ export default function App() {
         </div>
       </div>
       <div class="tweet-game">
-        <a target="_blank" href="https://hrefshare.com/6a604">
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://hrefshare.com/6a604"
+        >
           <i class="fa fa-twitter"></i> Tweet it!
         </a>
       </div>
       <footer>
         Made by{" "}
-        <a target="_blank" href="https://devpriyanshu.netlify.app">
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://devpriyanshu.netlify.app"
+        >
           Priyanshu
         </a>
         .
